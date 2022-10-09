@@ -1,2 +1,2 @@
 # podyplomowe
-# Liczy pole i obwód prostokąta.
+# Program liczy pole i obwód prostokąta.
