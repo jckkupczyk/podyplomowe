@@ -5,5 +5,6 @@ public class podyplomowe {
 
         System.out.println("Pole prostokoąta jest równe: " + (a * b));
         System.out.println("Obwód prostokoąta jest równy: " + (2*a + 2 * b));
+        //wprowadzono zmiany do programu
     }
 }
