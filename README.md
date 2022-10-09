@@ -1,2 +1,2 @@
 # podyplomowe
-# pole prostokąta
+# Liczy pole i obwód prostokąta.
